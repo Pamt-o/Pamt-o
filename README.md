@@ -3,7 +3,7 @@
 <br> 👩‍🎓 Estudante - Análise e Desenvolvimento de Sistemas
 <br>  📧 Contate-me no e-mail: albuquerque.pamela@yahoo.com.br
 
-<div align="center">
+<div align="">
   <a href="https://github.com/Pamt-o">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Pamt-o&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pamt-o&layout=compact&langs_count=7&theme=dracula"/>
