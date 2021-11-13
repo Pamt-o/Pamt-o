@@ -5,16 +5,16 @@
 
 <div align="center">
   <a href="https://github.com/Pamt-o">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Pamt-o&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pamt-o&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Pamt-o&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pamt-o&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Pam-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pam-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pam-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="pam-gif" height="200" style="border-radius:px" 
-  <img src="https://i.picasion.com/pic91/23c08e878d16c873fe08a1b9bcbeb827.gif" width="200" height="200" border="0"/>
+  <img align="right" alt="pam-gif" height="180" style="border-radius:px" 
+  <img src="https://i.picasion.com/pic91/23c08e878d16c873fe08a1b9bcbeb827.gif" width="180" height="180" border="0"/>
 </div>
   
  ##
