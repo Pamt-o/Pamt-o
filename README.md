@@ -1,12 +1,12 @@
 ### Oi! Eu sou a Pâmela Albuquerque
 
-- 👩‍🎓 Estudante - Análise e Desenvolvimento de Sistemas
-- 📧 Contate-me no e-mail: albuquerque.pamela@yahoo.com.br
+<br> 👩‍🎓 Estudante - Análise e Desenvolvimento de Sistemas
+<br>  📧 Contate-me no e-mail: albuquerque.pamela@yahoo.com.br
 
 <div align="center">
   <a href="https://github.com/Pamt-o">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pamt-o&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pamt-o&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Pamt-o&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pamt-o&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
