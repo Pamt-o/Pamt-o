@@ -1,7 +1,7 @@
 ### Oi! Eu sou a Pâmela Albuquerque
 
 <br> 👩‍🎓 Estudante - Análise e Desenvolvimento de Sistemas
-<br>  📧 Contate-me no e-mail: albuquerque.pamela@yahoo.com.br
+
 
 <div align="center">
   <a href="https://github.com/Pamt-o">
