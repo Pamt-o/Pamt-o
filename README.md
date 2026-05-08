@@ -1,6 +1,6 @@
 ### Oi! Eu sou a Pâmela Albuquerque
 
-<br> 👩‍🎓 Estudante - Análise e Desenvolvimento de Sistemas
+<br> 👩‍🎓 Formada - Análise e Desenvolvimento de Sistemas
 
 
 <div align="center">
