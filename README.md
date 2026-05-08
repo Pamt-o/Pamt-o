@@ -19,6 +19,11 @@
 </div>
   
  ##
+ <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Pamt-o.Pamt-o&"  />
+</div>
+
+###
   
 <div> 
   <a href="https://www.facebook.com/pamela.albuquerque.754" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
